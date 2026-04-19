@@ -1,0 +1,501 @@
+unique id,name,year of study,department,book serial no.,book name,date of issue,submit date,phone no.,email id
+STU1001,Vikram Das,3,Mathematics,BK-69868,The Alchemist,2026-10-10,2026-10-29,9192009434,vikram.das93@university.edu
+STU1002,Kabir Patel,1,Electrical Engineering,BK-26499,Calculus Early Transcendentals,2026-02-08,2026-02-17,7293165521,kabir.patel45@university.edu
+STU1003,Pooja Gupta,4,Computer Science,BK-83443,1984,2026-06-05,2026-06-15,9421591928,pooja.gupta64@university.edu
+STU1004,Karan Nair,3,Mechanical Engineering,BK-66865,Psychology of Money,2026-07-24,2026-08-10,9973599262,karan.nair75@university.edu
+STU1005,Riya Singh,4,Civil Engineering,BK-16027,The Alchemist,2026-10-21,2026-10-28,9599188852,riya.singh66@university.edu
+STU1006,Rahul Malhotra,2,Physics,BK-16294,The Alchemist,2026-05-01,2026-05-21,7854763985,rahul.malhotra91@university.edu
+STU1007,Ishani Reddy,2,Economics,BK-17989,Psychology of Money,2026-01-02,2026-01-21,7749525219,ishani.reddy32@university.edu
+STU1008,Aditya Malhotra,3,Physics,BK-26487,Microbiology Intro,2026-10-29,2026-11-17,7725355809,aditya.malhotra14@university.edu
+STU1009,Kabir Verma,4,Mathematics,BK-20775,Clean Code,2026-08-24,2026-09-07,8777512643,kabir.verma20@university.edu
+STU1010,Priya Gupta,4,Electrical Engineering,BK-21525,The Alchemist,2026-05-21,2026-06-06,9676993276,priya.gupta91@university.edu
+STU1011,Kabir Reddy,3,Computer Science,BK-88429,The Art of War,2026-03-13,2026-03-30,8695405662,kabir.reddy80@university.edu
+STU1012,Rahul Iyer,3,Economics,BK-72116,1984,2026-08-10,2026-08-19,7307249574,rahul.iyer55@university.edu
+STU1013,Riya Bose,1,Civil Engineering,BK-77845,Brave New World,2026-02-18,2026-03-05,8758821232,riya.bose26@university.edu
+STU1014,Manish Iyer,3,Computer Science,BK-67086,The Art of War,2026-02-25,2026-03-08,7004571268,manish.iyer33@university.edu
+STU1015,Priya Iyer,2,Physics,BK-56676,1984,2026-04-01,2026-04-20,9047059772,priya.iyer85@university.edu
+STU1016,Rohan Joshi,2,Mathematics,BK-30557,The Art of War,2026-04-23,2026-05-06,7559161334,rohan.joshi95@university.edu
+STU1017,Manish Reddy,4,Mechanical Engineering,BK-73593,Digital Logic Design,2026-04-16,2026-04-23,8097634332,manish.reddy20@university.edu
+STU1018,Sanya Kapoor,2,Civil Engineering,BK-60219,Clean Code,2026-06-09,2026-06-30,7555552180,sanya.kapoor76@university.edu
+STU1019,Karan Iyer,3,Mechanical Engineering,BK-24093,Physics for Scientists,2026-09-20,2026-09-29,8037909360,karan.iyer59@university.edu
+STU1020,Meera Joshi,3,Literature,BK-31476,Modern Economics,2026-06-15,2026-06-23,9045047018,meera.joshi32@university.edu
+STU1021,Karan Verma,1,Mechanical Engineering,BK-75899,Data Structures 101,2026-06-30,2026-07-21,7173642917,karan.verma34@university.edu
+STU1022,Pooja Gupta,3,Civil Engineering,BK-53399,The Great Gatsby,2026-01-14,2026-01-28,8051926464,pooja.gupta90@university.edu
+STU1023,Vijay Malhotra,1,Literature,BK-62932,1984,2026-08-25,2026-09-13,9064383022,vijay.malhotra18@university.edu
+STU1024,Ananya Chawla,1,Electrical Engineering,BK-79253,Modern Economics,2026-08-10,2026-08-29,7129667447,ananya.chawla51@university.edu
+STU1025,Sneha Bose,1,Computer Science,BK-84212,Modern Economics,2026-03-10,2026-03-19,9155456340,sneha.bose24@university.edu
+STU1026,Pooja Kulkarni,3,Economics,BK-17561,Clean Code,2026-09-30,2026-10-18,9552529252,pooja.kulkarni71@university.edu
+STU1027,Ishani Nair,4,Mechanical Engineering,BK-53472,Digital Logic Design,2026-01-11,2026-01-31,8946909279,ishani.nair31@university.edu
+STU1028,Aditya Patel,4,Economics,BK-11584,Introduction to Algorithms,2026-04-06,2026-04-17,8993728885,aditya.patel83@university.edu
+STU1029,Meera Gupta,2,Computer Science,BK-90596,The Alchemist,2026-09-25,2026-10-15,9251597827,meera.gupta59@university.edu
+STU1030,Riya Kapoor,2,Civil Engineering,BK-91092,To Kill a Mockingbird,2026-07-29,2026-08-12,8309695083,riya.kapoor70@university.edu
+STU1031,Vijay Kapoor,4,Electrical Engineering,BK-68836,Psychology of Money,2026-05-28,2026-06-09,9548498416,vijay.kapoor91@university.edu
+STU1032,Kabir Gupta,4,Economics,BK-42303,Data Structures 101,2025-12-30,2026-01-10,7675429734,kabir.gupta23@university.edu
+STU1033,Arjun Singh,4,Mechanical Engineering,BK-46252,Brave New World,2026-08-10,2026-08-24,8726612558,arjun.singh54@university.edu
+STU1034,Aditya Gupta,4,Physics,BK-36155,Calculus Early Transcendentals,2026-06-23,2026-07-03,8446409941,aditya.gupta26@university.edu
+STU1035,Priya Joshi,1,Civil Engineering,BK-48353,Brave New World,2026-10-04,2026-10-18,9603067598,priya.joshi69@university.edu
+STU1036,Riya Verma,2,Physics,BK-46408,Clean Code,2025-12-26,2026-01-09,8026401613,riya.verma33@university.edu
+STU1037,Karan Malhotra,2,Civil Engineering,BK-23232,To Kill a Mockingbird,2026-02-05,2026-02-15,7508556052,karan.malhotra43@university.edu
+STU1038,Tara Iyer,2,Physics,BK-40958,Introduction to Algorithms,2026-01-08,2026-01-22,8924105681,tara.iyer83@university.edu
+STU1039,Zoya Joshi,4,Computer Science,BK-11758,Data Structures 101,2026-12-05,2026-12-13,7144762582,zoya.joshi71@university.edu
+STU1040,Arjun Sharma,2,Computer Science,BK-21956,Digital Logic Design,2026-11-07,2026-11-20,7464794109,arjun.sharma17@university.edu
+STU1041,Vijay Joshi,4,Electrical Engineering,BK-73354,The Alchemist,2025-12-25,2026-01-07,9292263021,vijay.joshi97@university.edu
+STU1042,Meera Kapoor,2,Civil Engineering,BK-64643,Data Structures 101,2026-07-17,2026-07-27,9401832050,meera.kapoor81@university.edu
+STU1043,Manish Chawla,3,Civil Engineering,BK-46443,Calculus Early Transcendentals,2026-02-07,2026-02-14,8769775468,manish.chawla23@university.edu
+STU1044,Sanya Verma,4,Mechanical Engineering,BK-93837,Brave New World,2025-12-23,2026-01-12,9499033720,sanya.verma38@university.edu
+STU1045,Rahul Reddy,3,Literature,BK-60072,Brave New World,2026-12-19,2026-12-31,7463685177,rahul.reddy43@university.edu
+STU1046,Sneha Kulkarni,2,Physics,BK-95029,1984,2026-02-08,2026-02-17,8454908419,sneha.kulkarni83@university.edu
+STU1047,Riya Nair,2,Civil Engineering,BK-54379,Psychology of Money,2026-01-19,2026-01-27,9637789253,riya.nair51@university.edu
+STU1048,Sneha Joshi,3,Literature,BK-85546,1984,2026-04-06,2026-04-20,8091191822,sneha.joshi46@university.edu
+STU1049,Rohan Nair,4,Physics,BK-92383,Brave New World,2026-04-28,2026-05-06,9061564232,rohan.nair31@university.edu
+STU1050,Ishani Chawla,4,Economics,BK-91181,Physics for Scientists,2026-01-30,2026-02-15,9473056051,ishani.chawla80@university.edu
+STU1051,Priya Nair,2,Mathematics,BK-33422,To Kill a Mockingbird,2026-08-22,2026-09-06,7757224532,priya.nair67@university.edu
+STU1052,Aditya Kulkarni,3,Economics,BK-62775,Calculus Early Transcendentals,2026-06-17,2026-06-24,9436363468,aditya.kulkarni99@university.edu
+STU1053,Sanya Chawla,4,Literature,BK-95208,Data Structures 101,2026-06-04,2026-06-25,7199773216,sanya.chawla15@university.edu
+STU1054,Vikram Bose,1,Mathematics,BK-24868,The Great Gatsby,2026-04-08,2026-04-17,7282403955,vikram.bose15@university.edu
+STU1055,Ishani Bose,1,Literature,BK-29754,The Great Gatsby,2026-09-09,2026-09-30,7718312074,ishani.bose35@university.edu
+STU1056,Karan Sharma,3,Physics,BK-90284,Psychology of Money,2026-02-21,2026-03-02,8743807583,karan.sharma34@university.edu
+STU1057,Ishani Joshi,1,Mechanical Engineering,BK-70023,Data Structures 101,2026-06-23,2026-07-08,8769008027,ishani.joshi64@university.edu
+STU1058,Sanya Nair,2,Physics,BK-19665,Modern Economics,2026-02-18,2026-03-04,9749016169,sanya.nair10@university.edu
+STU1059,Rohan Verma,2,Literature,BK-44057,The Alchemist,2026-05-03,2026-05-12,8878406758,rohan.verma31@university.edu
+STU1060,Rohan Verma,4,Electrical Engineering,BK-78132,Microbiology Intro,2026-08-10,2026-08-17,8927292012,rohan.verma29@university.edu
+STU1061,Rahul Das,4,Mathematics,BK-35005,The Alchemist,2026-05-20,2026-06-04,9178765787,rahul.das87@university.edu
+STU1062,Pooja Singh,4,Mathematics,BK-37479,Digital Logic Design,2026-03-16,2026-03-28,7362755628,pooja.singh16@university.edu
+STU1063,Manish Malhotra,3,Civil Engineering,BK-39494,The Great Gatsby,2025-12-29,2026-01-07,7166478919,manish.malhotra45@university.edu
+STU1064,Manish Bose,4,Computer Science,BK-49377,Modern Economics,2026-04-03,2026-04-14,7585039005,manish.bose17@university.edu
+STU1065,Manish Kulkarni,1,Economics,BK-60519,Clean Code,2025-12-18,2026-01-05,7937616074,manish.kulkarni80@university.edu
+STU1066,Priya Patel,3,Civil Engineering,BK-86003,Microbiology Intro,2026-11-10,2026-11-20,9945078084,priya.patel31@university.edu
+STU1067,Priya Kapoor,4,Computer Science,BK-62090,Calculus Early Transcendentals,2026-07-23,2026-08-02,9056075463,priya.kapoor88@university.edu
+STU1068,Ananya Singh,1,Electrical Engineering,BK-93343,To Kill a Mockingbird,2026-09-08,2026-09-21,9285762442,ananya.singh47@university.edu
+STU1069,Tara Nair,3,Economics,BK-42927,Clean Code,2026-04-02,2026-04-21,7307753553,tara.nair10@university.edu
+STU1070,Meera Verma,2,Computer Science,BK-17321,1984,2025-12-11,2026-01-01,7633472289,meera.verma22@university.edu
+STU1071,Aditya Joshi,3,Physics,BK-12784,Introduction to Algorithms,2026-11-19,2026-12-10,8186289874,aditya.joshi45@university.edu
+STU1072,Rohan Singh,3,Mechanical Engineering,BK-17169,Data Structures 101,2026-04-16,2026-04-30,8669621577,rohan.singh87@university.edu
+STU1073,Sneha Joshi,1,Mathematics,BK-73711,Calculus Early Transcendentals,2026-03-07,2026-03-16,9107358069,sneha.joshi45@university.edu
+STU1074,Manish Kapoor,3,Mathematics,BK-75875,Clean Code,2026-03-05,2026-03-26,7161859815,manish.kapoor41@university.edu
+STU1075,Sneha Sharma,1,Electrical Engineering,BK-16309,Microbiology Intro,2026-09-04,2026-09-14,7149205606,sneha.sharma95@university.edu
+STU1076,Sneha Singh,1,Mathematics,BK-25978,The Art of War,2026-10-10,2026-10-18,8173844973,sneha.singh40@university.edu
+STU1077,Aditya Singh,2,Civil Engineering,BK-52733,Data Structures 101,2026-01-07,2026-01-25,8918905217,aditya.singh54@university.edu
+STU1078,Kabir Malhotra,1,Mechanical Engineering,BK-35217,The Alchemist,2026-11-05,2026-11-21,7329613881,kabir.malhotra80@university.edu
+STU1079,Sneha Patel,3,Economics,BK-50108,Modern Economics,2026-11-25,2026-12-12,9538477183,sneha.patel38@university.edu
+STU1080,Ananya Verma,3,Civil Engineering,BK-53069,Psychology of Money,2026-11-15,2026-11-29,9725205556,ananya.verma63@university.edu
+STU1081,Aditya Kapoor,2,Literature,BK-46824,To Kill a Mockingbird,2026-08-14,2026-09-03,9408814850,aditya.kapoor66@university.edu
+STU1082,Priya Joshi,3,Mathematics,BK-34456,Introduction to Algorithms,2026-01-08,2026-01-20,7332771533,priya.joshi38@university.edu
+STU1083,Arjun Malhotra,3,Civil Engineering,BK-46236,The Art of War,2026-10-10,2026-10-27,9208654505,arjun.malhotra23@university.edu
+STU1084,Kabir Reddy,1,Civil Engineering,BK-49463,To Kill a Mockingbird,2026-07-05,2026-07-20,7272374004,kabir.reddy29@university.edu
+STU1085,Pooja Nair,2,Civil Engineering,BK-43003,1984,2026-02-05,2026-02-17,8242878063,pooja.nair71@university.edu
+STU1086,Tara Joshi,1,Literature,BK-41593,The Art of War,2026-04-18,2026-04-30,9164337615,tara.joshi91@university.edu
+STU1087,Pooja Kulkarni,3,Electrical Engineering,BK-22421,Introduction to Algorithms,2026-02-02,2026-02-22,9462828229,pooja.kulkarni96@university.edu
+STU1088,Manish Sharma,2,Mathematics,BK-53710,Introduction to Algorithms,2026-10-23,2026-11-02,7755727772,manish.sharma62@university.edu
+STU1089,Sanya Joshi,1,Computer Science,BK-71243,Digital Logic Design,2026-08-10,2026-08-19,7021856640,sanya.joshi29@university.edu
+STU1090,Meera Singh,4,Physics,BK-76650,The Great Gatsby,2026-07-27,2026-08-12,9924373600,meera.singh97@university.edu
+STU1091,Priya Bose,4,Physics,BK-54223,The Art of War,2026-12-14,2026-12-22,9009082842,priya.bose77@university.edu
+STU1092,Aditya Kapoor,4,Civil Engineering,BK-98058,1984,2026-01-27,2026-02-13,8157279312,aditya.kapoor72@university.edu
+STU1093,Vikram Patel,1,Computer Science,BK-46207,The Alchemist,2026-03-24,2026-03-31,9335441087,vikram.patel16@university.edu
+STU1094,Kabir Bose,3,Literature,BK-88969,Modern Economics,2026-03-14,2026-03-22,7238364724,kabir.bose45@university.edu
+STU1095,Ananya Patel,3,Mathematics,BK-23601,Modern Economics,2026-03-11,2026-03-28,7804671795,ananya.patel89@university.edu
+STU1096,Vijay Kapoor,4,Literature,BK-92678,Introduction to Algorithms,2026-07-08,2026-07-18,9359148218,vijay.kapoor55@university.edu
+STU1097,Riya Nair,2,Physics,BK-14864,The Art of War,2026-04-12,2026-05-01,7778693621,riya.nair53@university.edu
+STU1098,Vikram Nair,4,Literature,BK-31810,Microbiology Intro,2026-06-26,2026-07-06,7098978755,vikram.nair37@university.edu
+STU1099,Zoya Singh,4,Civil Engineering,BK-17032,Clean Code,2025-12-16,2026-01-04,7125997653,zoya.singh59@university.edu
+STU1100,Sanya Singh,4,Physics,BK-43041,Clean Code,2026-09-27,2026-10-08,9983551702,sanya.singh27@university.edu
+STU1101,Amit Sharma,2,Economics,BK-34146,Calculus Early Transcendentals,2026-12-01,2026-12-14,8016968086,amit.sharma73@university.edu
+STU1102,Arjun Verma,2,Mechanical Engineering,BK-72111,The Great Gatsby,2026-06-28,2026-07-17,8424389157,arjun.verma83@university.edu
+STU1103,Priya Kulkarni,4,Mechanical Engineering,BK-21093,Digital Logic Design,2026-06-23,2026-06-30,8308676699,priya.kulkarni74@university.edu
+STU1104,Rahul Sharma,1,Literature,BK-22085,The Alchemist,2026-08-03,2026-08-18,8418821516,rahul.sharma66@university.edu
+STU1105,Vijay Sharma,3,Mechanical Engineering,BK-72138,Modern Economics,2026-03-20,2026-03-29,8115125997,vijay.sharma68@university.edu
+STU1106,Meera Gupta,1,Physics,BK-10290,1984,2026-09-21,2026-10-12,7491258276,meera.gupta81@university.edu
+STU1107,Manish Malhotra,3,Mechanical Engineering,BK-47743,Brave New World,2026-07-30,2026-08-19,8646619158,manish.malhotra79@university.edu
+STU1108,Kabir Patel,4,Mathematics,BK-62760,The Great Gatsby,2026-03-04,2026-03-13,9958969735,kabir.patel27@university.edu
+STU1109,Manish Malhotra,1,Physics,BK-12821,Digital Logic Design,2026-07-13,2026-07-23,8599664075,manish.malhotra21@university.edu
+STU1110,Vikram Verma,2,Economics,BK-84240,Calculus Early Transcendentals,2026-12-07,2026-12-16,9411737016,vikram.verma37@university.edu
+STU1111,Rohan Reddy,2,Physics,BK-42901,Digital Logic Design,2026-04-08,2026-04-19,9002388071,rohan.reddy11@university.edu
+STU1112,Ananya Sharma,3,Economics,BK-59834,The Alchemist,2026-08-23,2026-09-12,7867416221,ananya.sharma69@university.edu
+STU1113,Ishani Iyer,4,Mechanical Engineering,BK-53814,1984,2026-05-09,2026-05-28,9678062416,ishani.iyer88@university.edu
+STU1114,Zoya Verma,2,Economics,BK-75704,Introduction to Algorithms,2026-12-04,2026-12-22,8576162342,zoya.verma47@university.edu
+STU1115,Ananya Patel,2,Physics,BK-58577,Introduction to Algorithms,2025-12-14,2026-01-04,8511315733,ananya.patel40@university.edu
+STU1116,Aditya Das,3,Literature,BK-27921,Calculus Early Transcendentals,2026-05-30,2026-06-14,9049142351,aditya.das85@university.edu
+STU1117,Rohan Nair,3,Mathematics,BK-26516,1984,2026-08-16,2026-09-05,8921803448,rohan.nair22@university.edu
+STU1118,Rahul Singh,1,Computer Science,BK-11097,Data Structures 101,2026-06-14,2026-07-01,8151881900,rahul.singh30@university.edu
+STU1119,Arjun Patel,2,Electrical Engineering,BK-27564,Clean Code,2026-04-18,2026-04-25,8685334236,arjun.patel21@university.edu
+STU1120,Riya Gupta,1,Literature,BK-60536,The Alchemist,2026-08-18,2026-09-02,9595445374,riya.gupta51@university.edu
+STU1121,Sanya Bose,2,Economics,BK-23952,Introduction to Algorithms,2026-03-03,2026-03-21,9876033614,sanya.bose47@university.edu
+STU1122,Amit Kulkarni,3,Mechanical Engineering,BK-41328,Calculus Early Transcendentals,2026-10-26,2026-11-09,9143198573,amit.kulkarni64@university.edu
+STU1123,Aditya Gupta,4,Civil Engineering,BK-95440,Modern Economics,2026-10-19,2026-10-31,7849818038,aditya.gupta17@university.edu
+STU1124,Karan Das,1,Literature,BK-28134,1984,2026-08-19,2026-08-30,9904828132,karan.das85@university.edu
+STU1125,Manish Kulkarni,2,Civil Engineering,BK-99243,Modern Economics,2026-12-13,2026-12-28,9212178887,manish.kulkarni60@university.edu
+STU1126,Arjun Patel,4,Literature,BK-47005,Microbiology Intro,2026-11-13,2026-11-30,7117912894,arjun.patel18@university.edu
+STU1127,Ananya Joshi,3,Literature,BK-95937,Microbiology Intro,2025-12-18,2026-01-02,8381027718,ananya.joshi25@university.edu
+STU1128,Karan Bose,4,Computer Science,BK-74588,Physics for Scientists,2026-02-17,2026-02-28,7306826519,karan.bose18@university.edu
+STU1129,Ananya Kulkarni,3,Electrical Engineering,BK-11752,Calculus Early Transcendentals,2026-04-12,2026-04-27,8226471559,ananya.kulkarni47@university.edu
+STU1130,Sanya Reddy,2,Economics,BK-23887,The Art of War,2026-01-07,2026-01-20,8158995526,sanya.reddy24@university.edu
+STU1131,Vikram Kulkarni,4,Mechanical Engineering,BK-90607,Physics for Scientists,2026-09-20,2026-10-05,9783734158,vikram.kulkarni78@university.edu
+STU1132,Karan Singh,3,Civil Engineering,BK-50940,Microbiology Intro,2026-09-17,2026-09-24,8751813964,karan.singh38@university.edu
+STU1133,Priya Reddy,3,Computer Science,BK-14458,Data Structures 101,2026-09-12,2026-10-01,9636372080,priya.reddy64@university.edu
+STU1134,Sanya Kulkarni,1,Physics,BK-28780,The Art of War,2026-07-31,2026-08-21,9622896493,sanya.kulkarni52@university.edu
+STU1135,Meera Kapoor,3,Physics,BK-76358,Data Structures 101,2026-08-20,2026-09-01,7038764419,meera.kapoor52@university.edu
+STU1136,Riya Gupta,3,Mechanical Engineering,BK-91957,The Great Gatsby,2026-04-16,2026-05-03,9815671303,riya.gupta61@university.edu
+STU1137,Riya Chawla,3,Literature,BK-30395,Digital Logic Design,2026-04-03,2026-04-12,9514773752,riya.chawla20@university.edu
+STU1138,Aditya Nair,1,Mechanical Engineering,BK-13359,1984,2025-12-21,2026-01-07,9075871868,aditya.nair36@university.edu
+STU1139,Aditya Gupta,4,Literature,BK-13713,1984,2026-06-20,2026-07-09,9976667701,aditya.gupta64@university.edu
+STU1140,Tara Kapoor,2,Computer Science,BK-15002,The Great Gatsby,2026-08-02,2026-08-13,9619121972,tara.kapoor55@university.edu
+STU1141,Priya Kulkarni,4,Literature,BK-48847,The Alchemist,2026-08-19,2026-09-07,9023662176,priya.kulkarni21@university.edu
+STU1142,Amit Kulkarni,4,Computer Science,BK-11732,To Kill a Mockingbird,2026-01-18,2026-01-31,7053263021,amit.kulkarni40@university.edu
+STU1143,Vijay Iyer,1,Electrical Engineering,BK-37637,Calculus Early Transcendentals,2026-10-25,2026-11-02,8653517219,vijay.iyer74@university.edu
+STU1144,Ishani Kulkarni,1,Mathematics,BK-21321,1984,2026-07-13,2026-08-03,9136673247,ishani.kulkarni18@university.edu
+STU1145,Karan Patel,2,Civil Engineering,BK-87396,Physics for Scientists,2026-08-17,2026-09-07,9306137262,karan.patel15@university.edu
+STU1146,Rahul Patel,1,Electrical Engineering,BK-71922,1984,2026-10-02,2026-10-15,9629237207,rahul.patel85@university.edu
+STU1147,Tara Kulkarni,2,Literature,BK-75987,Psychology of Money,2026-02-09,2026-02-26,7475951617,tara.kulkarni81@university.edu
+STU1148,Priya Singh,4,Civil Engineering,BK-96483,1984,2026-04-08,2026-04-29,7967873430,priya.singh65@university.edu
+STU1149,Manish Nair,3,Computer Science,BK-76995,Clean Code,2026-10-27,2026-11-17,8059067808,manish.nair89@university.edu
+STU1150,Pooja Gupta,3,Electrical Engineering,BK-68597,Microbiology Intro,2026-09-13,2026-09-20,7229254361,pooja.gupta37@university.edu
+STU1151,Rohan Patel,2,Mechanical Engineering,BK-85212,The Art of War,2026-08-27,2026-09-05,9247818624,rohan.patel80@university.edu
+STU1152,Rohan Chawla,1,Electrical Engineering,BK-80542,Data Structures 101,2026-08-31,2026-09-08,7858942431,rohan.chawla98@university.edu
+STU1153,Sanya Patel,3,Literature,BK-74937,Modern Economics,2026-01-13,2026-01-29,8744778445,sanya.patel87@university.edu
+STU1154,Pooja Singh,1,Computer Science,BK-28111,Microbiology Intro,2026-01-17,2026-01-26,7131576364,pooja.singh20@university.edu
+STU1155,Pooja Bose,1,Computer Science,BK-56797,The Art of War,2026-03-14,2026-03-29,8264194752,pooja.bose21@university.edu
+STU1156,Vikram Kulkarni,3,Civil Engineering,BK-94231,Brave New World,2026-05-09,2026-05-21,9245815275,vikram.kulkarni85@university.edu
+STU1157,Priya Reddy,3,Civil Engineering,BK-20498,Data Structures 101,2026-10-31,2026-11-15,9906917344,priya.reddy75@university.edu
+STU1158,Vijay Kulkarni,1,Computer Science,BK-80253,Data Structures 101,2026-06-14,2026-07-05,8904147705,vijay.kulkarni49@university.edu
+STU1159,Manish Iyer,3,Computer Science,BK-88198,Introduction to Algorithms,2026-02-03,2026-02-16,8318375693,manish.iyer94@university.edu
+STU1160,Rahul Bose,2,Economics,BK-75545,Microbiology Intro,2026-10-12,2026-10-25,9128705128,rahul.bose98@university.edu
+STU1161,Aditya Nair,4,Civil Engineering,BK-22559,Clean Code,2026-10-12,2026-10-20,8475314550,aditya.nair97@university.edu
+STU1162,Zoya Kapoor,4,Economics,BK-63524,Brave New World,2026-04-09,2026-04-28,9863602083,zoya.kapoor43@university.edu
+STU1163,Manish Verma,3,Physics,BK-76197,Calculus Early Transcendentals,2026-07-15,2026-07-22,9179987361,manish.verma12@university.edu
+STU1164,Kabir Kapoor,2,Computer Science,BK-60778,Modern Economics,2026-07-28,2026-08-09,7483236170,kabir.kapoor31@university.edu
+STU1165,Amit Iyer,3,Physics,BK-22545,The Great Gatsby,2026-04-08,2026-04-23,7151445419,amit.iyer31@university.edu
+STU1166,Riya Gupta,4,Mathematics,BK-25742,Brave New World,2026-05-18,2026-05-27,8399075119,riya.gupta15@university.edu
+STU1167,Vikram Chawla,1,Mechanical Engineering,BK-14647,Calculus Early Transcendentals,2026-12-18,2026-12-27,8028198095,vikram.chawla20@university.edu
+STU1168,Meera Nair,4,Computer Science,BK-43601,1984,2026-06-20,2026-07-06,7095086364,meera.nair48@university.edu
+STU1169,Vikram Reddy,4,Electrical Engineering,BK-55695,Physics for Scientists,2026-01-21,2026-02-10,8366396716,vikram.reddy87@university.edu
+STU1170,Sneha Malhotra,1,Literature,BK-82186,Introduction to Algorithms,2026-09-06,2026-09-20,8605075031,sneha.malhotra19@university.edu
+STU1171,Manish Singh,3,Computer Science,BK-72278,The Great Gatsby,2026-11-02,2026-11-09,9557508916,manish.singh17@university.edu
+STU1172,Vijay Joshi,1,Mechanical Engineering,BK-25933,The Alchemist,2026-09-26,2026-10-03,7707265654,vijay.joshi65@university.edu
+STU1173,Amit Verma,2,Mathematics,BK-68226,Physics for Scientists,2026-10-07,2026-10-26,9764934410,amit.verma23@university.edu
+STU1174,Rohan Gupta,2,Computer Science,BK-69508,Microbiology Intro,2026-04-27,2026-05-15,9333795998,rohan.gupta79@university.edu
+STU1175,Arjun Malhotra,1,Literature,BK-50760,The Alchemist,2026-06-06,2026-06-13,8911241719,arjun.malhotra75@university.edu
+STU1176,Riya Gupta,3,Civil Engineering,BK-59414,The Alchemist,2026-06-20,2026-06-30,8094627123,riya.gupta47@university.edu
+STU1177,Vijay Gupta,3,Economics,BK-53764,1984,2026-05-20,2026-06-05,8969364562,vijay.gupta22@university.edu
+STU1178,Riya Singh,4,Literature,BK-97314,Digital Logic Design,2026-11-24,2026-12-11,9792071123,riya.singh85@university.edu
+STU1179,Zoya Bose,1,Mathematics,BK-44360,Data Structures 101,2026-09-26,2026-10-15,8552564913,zoya.bose21@university.edu
+STU1180,Tara Joshi,4,Literature,BK-25219,Psychology of Money,2026-07-13,2026-07-29,7215985747,tara.joshi58@university.edu
+STU1181,Amit Joshi,3,Computer Science,BK-11365,To Kill a Mockingbird,2026-07-05,2026-07-25,7028225653,amit.joshi64@university.edu
+STU1182,Riya Iyer,1,Economics,BK-15326,Calculus Early Transcendentals,2026-08-11,2026-08-22,8996366896,riya.iyer21@university.edu
+STU1183,Arjun Singh,3,Civil Engineering,BK-36343,Psychology of Money,2026-05-07,2026-05-14,9241779454,arjun.singh20@university.edu
+STU1184,Pooja Verma,2,Economics,BK-67106,Microbiology Intro,2026-10-24,2026-11-05,9821041943,pooja.verma88@university.edu
+STU1185,Sanya Singh,2,Economics,BK-43828,Data Structures 101,2026-11-23,2026-12-08,7317665836,sanya.singh66@university.edu
+STU1186,Zoya Kulkarni,1,Electrical Engineering,BK-82478,The Art of War,2026-01-02,2026-01-22,7427462555,zoya.kulkarni16@university.edu
+STU1187,Karan Sharma,1,Mathematics,BK-54882,Calculus Early Transcendentals,2026-01-01,2026-01-10,7226217888,karan.sharma83@university.edu
+STU1188,Ananya Gupta,4,Literature,BK-65362,Physics for Scientists,2026-08-19,2026-09-05,8325457390,ananya.gupta36@university.edu
+STU1189,Sneha Malhotra,4,Electrical Engineering,BK-54298,Calculus Early Transcendentals,2026-11-03,2026-11-14,7615511774,sneha.malhotra90@university.edu
+STU1190,Vijay Malhotra,4,Computer Science,BK-22715,Modern Economics,2026-08-23,2026-09-13,8802657944,vijay.malhotra11@university.edu
+STU1191,Arjun Kapoor,1,Mathematics,BK-10464,The Art of War,2026-08-24,2026-09-10,8928931895,arjun.kapoor72@university.edu
+STU1192,Aditya Singh,3,Mathematics,BK-84312,To Kill a Mockingbird,2026-08-27,2026-09-12,9528987396,aditya.singh18@university.edu
+STU1193,Karan Sharma,4,Economics,BK-56452,Physics for Scientists,2026-12-20,2026-12-30,7955839942,karan.sharma40@university.edu
+STU1194,Sneha Nair,4,Mathematics,BK-59888,Introduction to Algorithms,2026-07-07,2026-07-20,7006917037,sneha.nair63@university.edu
+STU1195,Kabir Kulkarni,3,Computer Science,BK-10783,Microbiology Intro,2026-08-20,2026-09-06,7487335759,kabir.kulkarni67@university.edu
+STU1196,Sanya Gupta,1,Civil Engineering,BK-39403,Modern Economics,2026-08-13,2026-08-30,9561084819,sanya.gupta17@university.edu
+STU1197,Tara Kapoor,1,Electrical Engineering,BK-87932,Calculus Early Transcendentals,2026-05-14,2026-05-29,9771002947,tara.kapoor92@university.edu
+STU1198,Ananya Kapoor,3,Computer Science,BK-83313,The Alchemist,2026-04-12,2026-04-28,7131285884,ananya.kapoor43@university.edu
+STU1199,Riya Verma,2,Electrical Engineering,BK-43426,Brave New World,2026-04-04,2026-04-13,8266209447,riya.verma82@university.edu
+STU1200,Rahul Verma,2,Civil Engineering,BK-94328,The Great Gatsby,2026-03-28,2026-04-06,7869758630,rahul.verma54@university.edu
+STU1201,Ishani Nair,1,Computer Science,BK-29565,To Kill a Mockingbird,2026-02-15,2026-02-25,7912757507,ishani.nair76@university.edu
+STU1202,Meera Malhotra,3,Physics,BK-87185,Physics for Scientists,2026-08-15,2026-08-25,9215988665,meera.malhotra29@university.edu
+STU1203,Ananya Kulkarni,2,Electrical Engineering,BK-14752,The Alchemist,2026-06-15,2026-06-24,7139292236,ananya.kulkarni52@university.edu
+STU1204,Vijay Chawla,2,Physics,BK-77708,Microbiology Intro,2026-12-09,2026-12-27,9745613123,vijay.chawla17@university.edu
+STU1205,Kabir Sharma,1,Economics,BK-48549,Digital Logic Design,2026-07-29,2026-08-17,8361733038,kabir.sharma29@university.edu
+STU1206,Priya Patel,1,Mechanical Engineering,BK-29713,The Art of War,2026-03-30,2026-04-17,7294679304,priya.patel56@university.edu
+STU1207,Meera Singh,1,Physics,BK-80770,To Kill a Mockingbird,2026-03-09,2026-03-26,7551247602,meera.singh91@university.edu
+STU1208,Ananya Verma,4,Electrical Engineering,BK-63779,Modern Economics,2026-07-13,2026-07-30,8202764701,ananya.verma35@university.edu
+STU1209,Sanya Malhotra,3,Economics,BK-56477,1984,2026-03-26,2026-04-06,8153051184,sanya.malhotra42@university.edu
+STU1210,Amit Chawla,1,Mechanical Engineering,BK-86524,Clean Code,2026-04-22,2026-04-29,7866242394,amit.chawla59@university.edu
+STU1211,Sneha Reddy,2,Economics,BK-78419,Clean Code,2026-01-03,2026-01-16,8388388954,sneha.reddy24@university.edu
+STU1212,Meera Gupta,2,Mechanical Engineering,BK-35675,To Kill a Mockingbird,2026-02-28,2026-03-15,8331128766,meera.gupta92@university.edu
+STU1213,Manish Joshi,4,Civil Engineering,BK-50647,Physics for Scientists,2026-05-29,2026-06-19,8345957968,manish.joshi68@university.edu
+STU1214,Karan Kulkarni,1,Computer Science,BK-93078,Physics for Scientists,2026-10-13,2026-11-03,7992294679,karan.kulkarni63@university.edu
+STU1215,Vijay Singh,2,Physics,BK-19502,The Great Gatsby,2026-10-09,2026-10-23,8228367081,vijay.singh94@university.edu
+STU1216,Riya Patel,1,Civil Engineering,BK-14449,Clean Code,2026-11-25,2026-12-07,8243218939,riya.patel22@university.edu
+STU1217,Rahul Kapoor,3,Civil Engineering,BK-22525,Clean Code,2026-02-17,2026-02-27,8887817079,rahul.kapoor26@university.edu
+STU1218,Riya Nair,3,Civil Engineering,BK-48780,The Alchemist,2026-11-29,2026-12-08,8309543402,riya.nair83@university.edu
+STU1219,Aditya Das,4,Economics,BK-89772,Microbiology Intro,2026-03-04,2026-03-12,8834001684,aditya.das68@university.edu
+STU1220,Priya Verma,2,Computer Science,BK-78248,Introduction to Algorithms,2026-07-28,2026-08-13,8761225203,priya.verma39@university.edu
+STU1221,Rahul Malhotra,4,Computer Science,BK-64948,To Kill a Mockingbird,2026-05-03,2026-05-13,8123023244,rahul.malhotra44@university.edu
+STU1222,Arjun Kapoor,3,Mechanical Engineering,BK-15935,Clean Code,2026-07-06,2026-07-17,8349806820,arjun.kapoor86@university.edu
+STU1223,Karan Kapoor,2,Computer Science,BK-12488,Data Structures 101,2026-12-21,2026-12-31,7639962716,karan.kapoor84@university.edu
+STU1224,Sneha Patel,1,Physics,BK-94604,Digital Logic Design,2026-05-28,2026-06-18,9797096524,sneha.patel33@university.edu
+STU1225,Riya Verma,1,Physics,BK-11391,The Alchemist,2026-12-21,2026-12-31,9364124277,riya.verma12@university.edu
+STU1226,Rohan Kapoor,1,Computer Science,BK-35144,Brave New World,2026-11-18,2026-12-09,7737212799,rohan.kapoor59@university.edu
+STU1227,Sanya Gupta,4,Literature,BK-52944,Microbiology Intro,2026-05-25,2026-06-11,7099453753,sanya.gupta67@university.edu
+STU1228,Pooja Iyer,3,Electrical Engineering,BK-85628,The Great Gatsby,2026-04-19,2026-04-28,8224191436,pooja.iyer77@university.edu
+STU1229,Meera Das,2,Computer Science,BK-13533,The Art of War,2026-11-20,2026-12-09,8799658906,meera.das72@university.edu
+STU1230,Rohan Kulkarni,2,Mechanical Engineering,BK-91369,Brave New World,2026-09-01,2026-09-22,8421455181,rohan.kulkarni80@university.edu
+STU1231,Vijay Kapoor,1,Mathematics,BK-79757,Digital Logic Design,2026-11-08,2026-11-26,9159313172,vijay.kapoor83@university.edu
+STU1232,Tara Nair,4,Electrical Engineering,BK-76016,To Kill a Mockingbird,2026-08-26,2026-09-12,7455088466,tara.nair54@university.edu
+STU1233,Amit Joshi,4,Electrical Engineering,BK-44851,Microbiology Intro,2026-07-10,2026-07-31,8674366931,amit.joshi69@university.edu
+STU1234,Meera Gupta,1,Electrical Engineering,BK-43407,Modern Economics,2026-02-27,2026-03-18,8018843663,meera.gupta63@university.edu
+STU1235,Sanya Sharma,3,Electrical Engineering,BK-61008,Introduction to Algorithms,2026-06-26,2026-07-08,7206875645,sanya.sharma21@university.edu
+STU1236,Rahul Malhotra,2,Economics,BK-30406,Clean Code,2026-07-30,2026-08-20,7885779738,rahul.malhotra63@university.edu
+STU1237,Vikram Kapoor,4,Civil Engineering,BK-17355,1984,2026-07-15,2026-07-29,8342539911,vikram.kapoor73@university.edu
+STU1238,Amit Kulkarni,2,Literature,BK-36032,The Great Gatsby,2026-10-28,2026-11-17,7423057488,amit.kulkarni71@university.edu
+STU1239,Priya Malhotra,4,Physics,BK-75472,Introduction to Algorithms,2026-10-14,2026-10-21,9358796310,priya.malhotra24@university.edu
+STU1240,Pooja Chawla,1,Economics,BK-61026,Psychology of Money,2026-06-11,2026-06-24,9371222071,pooja.chawla47@university.edu
+STU1241,Rohan Malhotra,4,Economics,BK-78815,1984,2026-10-29,2026-11-16,7062573798,rohan.malhotra52@university.edu
+STU1242,Rohan Malhotra,3,Economics,BK-17753,1984,2026-06-25,2026-07-14,8713386670,rohan.malhotra64@university.edu
+STU1243,Karan Nair,4,Electrical Engineering,BK-82004,Brave New World,2026-08-21,2026-09-07,7973134956,karan.nair54@university.edu
+STU1244,Pooja Joshi,3,Literature,BK-11459,Digital Logic Design,2026-04-10,2026-04-22,9678895633,pooja.joshi89@university.edu
+STU1245,Priya Singh,2,Mechanical Engineering,BK-63914,Introduction to Algorithms,2026-06-17,2026-06-25,8351339437,priya.singh37@university.edu
+STU1246,Rohan Iyer,4,Electrical Engineering,BK-61382,Digital Logic Design,2026-02-12,2026-02-28,7991525456,rohan.iyer77@university.edu
+STU1247,Zoya Malhotra,4,Literature,BK-67676,Calculus Early Transcendentals,2026-12-09,2026-12-22,7092921626,zoya.malhotra20@university.edu
+STU1248,Karan Joshi,4,Mathematics,BK-92029,Calculus Early Transcendentals,2026-11-05,2026-11-16,8532217643,karan.joshi53@university.edu
+STU1249,Ananya Sharma,3,Civil Engineering,BK-73442,Calculus Early Transcendentals,2026-03-08,2026-03-18,8295361612,ananya.sharma79@university.edu
+STU1250,Karan Malhotra,1,Mechanical Engineering,BK-61294,Calculus Early Transcendentals,2026-04-28,2026-05-13,9991366623,karan.malhotra86@university.edu
+STU1251,Manish Patel,2,Electrical Engineering,BK-57936,Physics for Scientists,2026-05-29,2026-06-05,9812564092,manish.patel34@university.edu
+STU1252,Sneha Kapoor,3,Literature,BK-45686,Clean Code,2026-12-01,2026-12-18,7921385223,sneha.kapoor78@university.edu
+STU1253,Riya Reddy,4,Computer Science,BK-49474,To Kill a Mockingbird,2026-08-20,2026-08-28,8645632864,riya.reddy30@university.edu
+STU1254,Arjun Kulkarni,1,Mechanical Engineering,BK-66767,Data Structures 101,2025-12-17,2026-01-01,7061667035,arjun.kulkarni94@university.edu
+STU1255,Rohan Malhotra,1,Literature,BK-28570,Digital Logic Design,2025-12-26,2026-01-16,7729663596,rohan.malhotra49@university.edu
+STU1256,Pooja Chawla,4,Economics,BK-60211,To Kill a Mockingbird,2026-10-14,2026-10-28,8594503561,pooja.chawla84@university.edu
+STU1257,Pooja Iyer,3,Mechanical Engineering,BK-57739,Data Structures 101,2026-06-21,2026-07-09,7906038337,pooja.iyer47@university.edu
+STU1258,Aditya Malhotra,4,Electrical Engineering,BK-73065,The Alchemist,2026-01-25,2026-02-02,9164245461,aditya.malhotra61@university.edu
+STU1259,Ananya Patel,2,Economics,BK-39611,Calculus Early Transcendentals,2026-07-05,2026-07-21,7421355402,ananya.patel13@university.edu
+STU1260,Ananya Patel,1,Electrical Engineering,BK-50193,The Alchemist,2026-05-20,2026-05-27,9088981199,ananya.patel12@university.edu
+STU1261,Ananya Malhotra,4,Mechanical Engineering,BK-16638,Digital Logic Design,2026-07-15,2026-07-29,7124269612,ananya.malhotra32@university.edu
+STU1262,Arjun Joshi,2,Mathematics,BK-48539,Calculus Early Transcendentals,2026-12-05,2026-12-17,9885966974,arjun.joshi54@university.edu
+STU1263,Riya Kapoor,2,Electrical Engineering,BK-76259,Physics for Scientists,2026-08-27,2026-09-14,9958641260,riya.kapoor67@university.edu
+STU1264,Meera Singh,4,Literature,BK-64032,Microbiology Intro,2026-07-18,2026-07-26,9782498358,meera.singh14@university.edu
+STU1265,Pooja Bose,1,Computer Science,BK-45399,To Kill a Mockingbird,2026-08-03,2026-08-19,7802631262,pooja.bose28@university.edu
+STU1266,Amit Chawla,4,Computer Science,BK-63742,Modern Economics,2026-01-31,2026-02-17,7513955717,amit.chawla29@university.edu
+STU1267,Sneha Iyer,4,Mechanical Engineering,BK-30613,Clean Code,2026-03-23,2026-04-10,7244125252,sneha.iyer63@university.edu
+STU1268,Priya Patel,3,Mathematics,BK-67256,Brave New World,2026-08-29,2026-09-06,9576192700,priya.patel71@university.edu
+STU1269,Ishani Kulkarni,1,Economics,BK-74390,Brave New World,2025-12-28,2026-01-04,7034864686,ishani.kulkarni26@university.edu
+STU1270,Sanya Kapoor,3,Literature,BK-47004,The Great Gatsby,2026-10-05,2026-10-25,7569696541,sanya.kapoor81@university.edu
+STU1271,Riya Kulkarni,3,Mechanical Engineering,BK-14633,Clean Code,2026-08-24,2026-09-01,8173352768,riya.kulkarni40@university.edu
+STU1272,Ananya Kulkarni,3,Economics,BK-37197,Digital Logic Design,2026-04-23,2026-05-12,9489964189,ananya.kulkarni54@university.edu
+STU1273,Rahul Chawla,3,Economics,BK-40920,Data Structures 101,2026-08-19,2026-08-29,7281201126,rahul.chawla26@university.edu
+STU1274,Meera Patel,4,Electrical Engineering,BK-63891,Data Structures 101,2026-03-14,2026-04-02,7333078302,meera.patel17@university.edu
+STU1275,Zoya Sharma,2,Electrical Engineering,BK-23089,Microbiology Intro,2026-09-24,2026-10-03,9051522178,zoya.sharma19@university.edu
+STU1276,Tara Joshi,3,Literature,BK-56370,The Great Gatsby,2026-11-06,2026-11-19,8497427060,tara.joshi69@university.edu
+STU1277,Manish Kulkarni,3,Mechanical Engineering,BK-58611,Microbiology Intro,2026-07-06,2026-07-19,9337211905,manish.kulkarni84@university.edu
+STU1278,Rahul Sharma,1,Civil Engineering,BK-68185,Introduction to Algorithms,2026-10-20,2026-11-06,8394782219,rahul.sharma26@university.edu
+STU1279,Zoya Kapoor,4,Civil Engineering,BK-43880,Data Structures 101,2026-04-16,2026-05-06,8848138316,zoya.kapoor12@university.edu
+STU1280,Vikram Chawla,1,Mathematics,BK-41046,Microbiology Intro,2026-05-13,2026-05-31,9396955467,vikram.chawla20@university.edu
+STU1281,Arjun Iyer,4,Mechanical Engineering,BK-27239,Data Structures 101,2026-11-15,2026-11-26,9705855344,arjun.iyer33@university.edu
+STU1282,Sneha Gupta,3,Mechanical Engineering,BK-52507,Physics for Scientists,2026-10-25,2026-11-03,8765006682,sneha.gupta32@university.edu
+STU1283,Vijay Joshi,1,Computer Science,BK-47816,Brave New World,2026-06-28,2026-07-19,9588227633,vijay.joshi72@university.edu
+STU1284,Ishani Bose,4,Literature,BK-83930,Clean Code,2026-07-29,2026-08-06,7569424389,ishani.bose86@university.edu
+STU1285,Zoya Reddy,1,Civil Engineering,BK-89804,Digital Logic Design,2026-12-14,2026-12-22,9522838298,zoya.reddy13@university.edu
+STU1286,Sneha Nair,3,Civil Engineering,BK-48827,Clean Code,2026-05-07,2026-05-22,9187561760,sneha.nair56@university.edu
+STU1287,Vikram Chawla,4,Civil Engineering,BK-10514,The Art of War,2026-11-12,2026-11-20,9594648354,vikram.chawla50@university.edu
+STU1288,Zoya Patel,1,Economics,BK-58271,1984,2026-05-07,2026-05-26,7211224985,zoya.patel72@university.edu
+STU1289,Vikram Iyer,3,Economics,BK-85195,Microbiology Intro,2026-03-15,2026-03-25,7697082475,vikram.iyer45@university.edu
+STU1290,Rahul Das,3,Economics,BK-90208,Introduction to Algorithms,2026-01-01,2026-01-16,9299879278,rahul.das53@university.edu
+STU1291,Sanya Das,2,Physics,BK-91283,Modern Economics,2026-11-07,2026-11-15,8301013614,sanya.das54@university.edu
+STU1292,Rohan Kulkarni,4,Physics,BK-13294,To Kill a Mockingbird,2026-03-10,2026-03-25,8673019117,rohan.kulkarni12@university.edu
+STU1293,Kabir Verma,2,Physics,BK-10071,Modern Economics,2026-08-12,2026-08-29,9108214556,kabir.verma71@university.edu
+STU1294,Zoya Malhotra,1,Mathematics,BK-99208,Modern Economics,2026-06-21,2026-07-05,7059432235,zoya.malhotra35@university.edu
+STU1295,Aditya Sharma,3,Economics,BK-35699,Data Structures 101,2026-11-05,2026-11-15,9744904435,aditya.sharma68@university.edu
+STU1296,Riya Kulkarni,4,Mechanical Engineering,BK-78820,Microbiology Intro,2026-05-26,2026-06-09,7612596785,riya.kulkarni56@university.edu
+STU1297,Manish Nair,1,Mathematics,BK-64936,Brave New World,2025-12-23,2026-01-09,9205829299,manish.nair16@university.edu
+STU1298,Vijay Kulkarni,2,Literature,BK-57061,Introduction to Algorithms,2026-09-13,2026-10-03,7757759447,vijay.kulkarni30@university.edu
+STU1299,Sanya Nair,3,Computer Science,BK-50777,1984,2026-09-27,2026-10-05,9078373552,sanya.nair38@university.edu
+STU1300,Vijay Sharma,3,Mathematics,BK-38743,To Kill a Mockingbird,2026-05-24,2026-06-03,9307952300,vijay.sharma85@university.edu
+STU1301,Ishani Das,1,Electrical Engineering,BK-84283,The Art of War,2026-12-09,2026-12-23,8583379878,ishani.das55@university.edu
+STU1302,Meera Malhotra,1,Economics,BK-81509,Digital Logic Design,2026-04-29,2026-05-07,9469879417,meera.malhotra12@university.edu
+STU1303,Ananya Joshi,3,Physics,BK-92390,To Kill a Mockingbird,2026-09-18,2026-10-08,9446311317,ananya.joshi86@university.edu
+STU1304,Pooja Nair,2,Electrical Engineering,BK-84764,Data Structures 101,2026-08-26,2026-09-09,8935708056,pooja.nair53@university.edu
+STU1305,Pooja Sharma,3,Electrical Engineering,BK-17691,Introduction to Algorithms,2026-08-28,2026-09-04,7833572178,pooja.sharma56@university.edu
+STU1306,Vikram Iyer,1,Mathematics,BK-19081,Psychology of Money,2026-10-20,2026-11-07,7689555441,vikram.iyer12@university.edu
+STU1307,Manish Malhotra,3,Mathematics,BK-32428,Introduction to Algorithms,2026-05-03,2026-05-15,9324058984,manish.malhotra64@university.edu
+STU1308,Meera Kulkarni,4,Mechanical Engineering,BK-96742,The Art of War,2026-09-16,2026-09-28,7429467755,meera.kulkarni73@university.edu
+STU1309,Ishani Nair,1,Literature,BK-84731,Psychology of Money,2026-09-12,2026-10-02,8577445779,ishani.nair94@university.edu
+STU1310,Kabir Gupta,1,Electrical Engineering,BK-89314,Modern Economics,2026-01-01,2026-01-22,9489676684,kabir.gupta75@university.edu
+STU1311,Zoya Singh,3,Economics,BK-58035,1984,2026-01-08,2026-01-17,9272646087,zoya.singh42@university.edu
+STU1312,Ishani Bose,2,Economics,BK-74454,Clean Code,2026-02-19,2026-03-07,9455276977,ishani.bose19@university.edu
+STU1313,Aditya Joshi,4,Physics,BK-49136,Microbiology Intro,2026-01-22,2026-02-12,7431566833,aditya.joshi30@university.edu
+STU1314,Manish Patel,3,Civil Engineering,BK-15753,The Alchemist,2026-04-05,2026-04-23,9123157914,manish.patel59@university.edu
+STU1315,Sneha Sharma,1,Electrical Engineering,BK-15599,Modern Economics,2026-06-21,2026-07-04,7065798314,sneha.sharma28@university.edu
+STU1316,Aditya Nair,1,Civil Engineering,BK-13008,1984,2026-04-01,2026-04-16,8503913992,aditya.nair12@university.edu
+STU1317,Zoya Nair,2,Civil Engineering,BK-20261,Clean Code,2026-09-04,2026-09-22,7737221875,zoya.nair24@university.edu
+STU1318,Ananya Bose,1,Mathematics,BK-70290,Microbiology Intro,2026-01-10,2026-01-28,7803437029,ananya.bose11@university.edu
+STU1319,Aditya Chawla,3,Electrical Engineering,BK-94062,Introduction to Algorithms,2026-01-21,2026-02-02,9814471171,aditya.chawla89@university.edu
+STU1320,Karan Reddy,2,Civil Engineering,BK-26342,The Great Gatsby,2026-04-06,2026-04-21,8836939457,karan.reddy43@university.edu
+STU1321,Vikram Patel,3,Physics,BK-77734,The Art of War,2026-08-09,2026-08-26,9255853243,vikram.patel38@university.edu
+STU1322,Amit Kulkarni,1,Electrical Engineering,BK-20316,Modern Economics,2026-05-09,2026-05-22,9734121658,amit.kulkarni67@university.edu
+STU1323,Rohan Iyer,2,Mechanical Engineering,BK-91071,To Kill a Mockingbird,2026-04-28,2026-05-15,7429333651,rohan.iyer10@university.edu
+STU1324,Tara Verma,1,Mechanical Engineering,BK-42250,Physics for Scientists,2026-08-18,2026-09-04,9605741002,tara.verma67@university.edu
+STU1325,Riya Reddy,1,Computer Science,BK-39738,The Alchemist,2026-10-02,2026-10-19,9311465512,riya.reddy46@university.edu
+STU1326,Manish Gupta,1,Mechanical Engineering,BK-43502,The Alchemist,2026-10-31,2026-11-18,9852858086,manish.gupta41@university.edu
+STU1327,Rohan Kapoor,3,Economics,BK-68816,Psychology of Money,2026-12-08,2026-12-17,7062684181,rohan.kapoor72@university.edu
+STU1328,Meera Chawla,4,Physics,BK-79126,Microbiology Intro,2026-09-25,2026-10-04,9911681037,meera.chawla31@university.edu
+STU1329,Sanya Patel,4,Literature,BK-83553,Physics for Scientists,2026-04-09,2026-04-25,7766941979,sanya.patel38@university.edu
+STU1330,Kabir Das,1,Economics,BK-80504,Introduction to Algorithms,2026-10-06,2026-10-15,7342747217,kabir.das61@university.edu
+STU1331,Vikram Chawla,1,Physics,BK-15118,Microbiology Intro,2026-10-22,2026-11-11,7711946627,vikram.chawla13@university.edu
+STU1332,Meera Joshi,1,Civil Engineering,BK-89569,1984,2026-12-04,2026-12-20,8366918067,meera.joshi26@university.edu
+STU1333,Pooja Reddy,3,Mathematics,BK-73110,Calculus Early Transcendentals,2026-06-17,2026-06-30,9964878494,pooja.reddy21@university.edu
+STU1334,Riya Singh,3,Physics,BK-70458,Brave New World,2026-05-10,2026-05-19,9562275046,riya.singh66@university.edu
+STU1335,Amit Verma,3,Economics,BK-31624,Psychology of Money,2026-04-30,2026-05-18,7506783276,amit.verma26@university.edu
+STU1336,Ishani Sharma,4,Literature,BK-68292,Physics for Scientists,2025-12-18,2026-01-01,8598149787,ishani.sharma42@university.edu
+STU1337,Priya Chawla,1,Mechanical Engineering,BK-24155,Microbiology Intro,2026-03-21,2026-04-08,9796326696,priya.chawla84@university.edu
+STU1338,Ananya Chawla,3,Civil Engineering,BK-42709,Psychology of Money,2026-04-16,2026-05-07,7254474573,ananya.chawla39@university.edu
+STU1339,Tara Kulkarni,4,Economics,BK-91271,Modern Economics,2026-10-06,2026-10-19,9199134852,tara.kulkarni95@university.edu
+STU1340,Kabir Iyer,3,Mechanical Engineering,BK-51223,Microbiology Intro,2026-03-28,2026-04-14,9188849015,kabir.iyer82@university.edu
+STU1341,Riya Reddy,2,Computer Science,BK-88807,Introduction to Algorithms,2026-05-06,2026-05-26,8009487364,riya.reddy11@university.edu
+STU1342,Arjun Kulkarni,1,Mathematics,BK-70653,Psychology of Money,2026-02-25,2026-03-15,9408294478,arjun.kulkarni75@university.edu
+STU1343,Amit Patel,4,Electrical Engineering,BK-82908,Modern Economics,2026-07-06,2026-07-26,7586953018,amit.patel91@university.edu
+STU1344,Zoya Das,3,Economics,BK-48734,Psychology of Money,2026-03-13,2026-03-27,8419156074,zoya.das31@university.edu
+STU1345,Tara Malhotra,4,Computer Science,BK-78880,Introduction to Algorithms,2026-01-15,2026-01-23,8865016056,tara.malhotra23@university.edu
+STU1346,Sneha Reddy,2,Civil Engineering,BK-78782,1984,2026-02-02,2026-02-17,7642047900,sneha.reddy65@university.edu
+STU1347,Rohan Malhotra,1,Civil Engineering,BK-39650,Microbiology Intro,2026-11-22,2026-12-11,8551501398,rohan.malhotra39@university.edu
+STU1348,Tara Das,3,Electrical Engineering,BK-24137,Physics for Scientists,2026-11-17,2026-12-05,9052465216,tara.das58@university.edu
+STU1349,Vikram Nair,4,Mathematics,BK-63986,Psychology of Money,2026-03-28,2026-04-06,8814271112,vikram.nair37@university.edu
+STU1350,Zoya Kulkarni,4,Economics,BK-98229,To Kill a Mockingbird,2026-10-24,2026-11-10,7946865056,zoya.kulkarni53@university.edu
+STU1351,Zoya Kulkarni,3,Literature,BK-79251,Brave New World,2026-10-20,2026-11-08,8348382967,zoya.kulkarni87@university.edu
+STU1352,Kabir Chawla,3,Literature,BK-88501,Physics for Scientists,2026-10-17,2026-10-26,8478354223,kabir.chawla53@university.edu
+STU1353,Priya Chawla,2,Electrical Engineering,BK-18249,Clean Code,2026-02-23,2026-03-11,8275116868,priya.chawla16@university.edu
+STU1354,Kabir Chawla,1,Economics,BK-59914,The Alchemist,2026-01-30,2026-02-13,9587026613,kabir.chawla65@university.edu
+STU1355,Amit Joshi,1,Mathematics,BK-40809,Data Structures 101,2026-07-17,2026-08-05,8263501859,amit.joshi94@university.edu
+STU1356,Pooja Sharma,4,Mathematics,BK-45082,Data Structures 101,2026-11-13,2026-12-03,7555413516,pooja.sharma12@university.edu
+STU1357,Rohan Bose,1,Literature,BK-16705,To Kill a Mockingbird,2026-12-08,2026-12-16,7923417762,rohan.bose40@university.edu
+STU1358,Manish Reddy,3,Electrical Engineering,BK-82971,To Kill a Mockingbird,2026-04-08,2026-04-17,8405266774,manish.reddy33@university.edu
+STU1359,Rohan Patel,4,Economics,BK-13289,The Great Gatsby,2026-03-14,2026-03-23,9789813496,rohan.patel63@university.edu
+STU1360,Zoya Das,4,Mathematics,BK-69007,The Great Gatsby,2026-12-13,2026-12-28,9498859469,zoya.das59@university.edu
+STU1361,Karan Das,2,Computer Science,BK-29355,To Kill a Mockingbird,2026-11-28,2026-12-09,9514645364,karan.das12@university.edu
+STU1362,Arjun Das,2,Computer Science,BK-79684,Psychology of Money,2026-09-21,2026-10-09,9633581442,arjun.das69@university.edu
+STU1363,Kabir Reddy,2,Civil Engineering,BK-53369,Microbiology Intro,2026-05-10,2026-05-27,7962871480,kabir.reddy78@university.edu
+STU1364,Priya Bose,4,Mechanical Engineering,BK-27719,The Art of War,2026-09-25,2026-10-11,8787663903,priya.bose69@university.edu
+STU1365,Tara Chawla,1,Electrical Engineering,BK-23448,Psychology of Money,2026-04-28,2026-05-14,8701759080,tara.chawla94@university.edu
+STU1366,Ishani Bose,3,Computer Science,BK-99002,Data Structures 101,2026-06-01,2026-06-18,8613787322,ishani.bose39@university.edu
+STU1367,Sneha Iyer,1,Mathematics,BK-12919,Microbiology Intro,2026-11-13,2026-11-29,8235719676,sneha.iyer37@university.edu
+STU1368,Tara Malhotra,4,Electrical Engineering,BK-21231,The Alchemist,2026-05-13,2026-05-20,7502719401,tara.malhotra45@university.edu
+STU1369,Amit Malhotra,4,Literature,BK-33586,Data Structures 101,2026-05-24,2026-06-14,7753523293,amit.malhotra16@university.edu
+STU1370,Aditya Patel,2,Electrical Engineering,BK-45396,Psychology of Money,2026-04-24,2026-05-09,8233311166,aditya.patel79@university.edu
+STU1371,Vijay Gupta,4,Civil Engineering,BK-23894,Introduction to Algorithms,2026-04-22,2026-04-29,9636308637,vijay.gupta93@university.edu
+STU1372,Pooja Iyer,4,Literature,BK-10107,Physics for Scientists,2026-05-28,2026-06-15,8673003895,pooja.iyer29@university.edu
+STU1373,Riya Kapoor,2,Civil Engineering,BK-37066,Data Structures 101,2026-11-02,2026-11-22,7565997498,riya.kapoor71@university.edu
+STU1374,Sanya Das,1,Electrical Engineering,BK-91332,Physics for Scientists,2026-04-16,2026-04-24,7523755031,sanya.das57@university.edu
+STU1375,Karan Das,4,Computer Science,BK-81075,Physics for Scientists,2026-11-14,2026-11-25,7266662911,karan.das19@university.edu
+STU1376,Tara Verma,2,Computer Science,BK-77189,The Great Gatsby,2026-02-27,2026-03-13,9813381511,tara.verma55@university.edu
+STU1377,Rahul Malhotra,4,Electrical Engineering,BK-99017,The Great Gatsby,2026-06-20,2026-06-30,8496914488,rahul.malhotra50@university.edu
+STU1378,Arjun Reddy,2,Economics,BK-26202,The Art of War,2026-09-08,2026-09-23,8664278920,arjun.reddy48@university.edu
+STU1379,Rahul Chawla,4,Economics,BK-89190,1984,2026-02-04,2026-02-23,7794208673,rahul.chawla61@university.edu
+STU1380,Amit Singh,4,Mechanical Engineering,BK-82338,Clean Code,2026-12-08,2026-12-20,9433688463,amit.singh11@university.edu
+STU1381,Rohan Sharma,1,Mathematics,BK-68843,Physics for Scientists,2026-09-03,2026-09-11,9536861771,rohan.sharma57@university.edu
+STU1382,Amit Singh,4,Economics,BK-56457,Psychology of Money,2026-01-21,2026-02-08,8663205910,amit.singh18@university.edu
+STU1383,Tara Kapoor,2,Civil Engineering,BK-62743,Psychology of Money,2026-07-01,2026-07-14,7137894998,tara.kapoor54@university.edu
+STU1384,Ishani Kulkarni,4,Mathematics,BK-91049,Clean Code,2026-10-26,2026-11-15,7585957121,ishani.kulkarni84@university.edu
+STU1385,Rohan Singh,4,Mechanical Engineering,BK-90380,Psychology of Money,2026-05-12,2026-05-28,9189042787,rohan.singh45@university.edu
+STU1386,Vikram Reddy,2,Literature,BK-52974,Data Structures 101,2026-03-16,2026-03-24,8127938124,vikram.reddy14@university.edu
+STU1387,Rahul Joshi,3,Physics,BK-54476,Digital Logic Design,2026-02-06,2026-02-27,8167685377,rahul.joshi35@university.edu
+STU1388,Manish Das,1,Economics,BK-88984,Calculus Early Transcendentals,2026-01-19,2026-02-07,8202189643,manish.das60@university.edu
+STU1389,Priya Chawla,2,Mechanical Engineering,BK-71854,Brave New World,2026-02-28,2026-03-14,7353395475,priya.chawla62@university.edu
+STU1390,Ananya Chawla,2,Computer Science,BK-28009,Microbiology Intro,2026-05-19,2026-06-05,9061314624,ananya.chawla95@university.edu
+STU1391,Sanya Kulkarni,3,Mathematics,BK-41371,1984,2026-03-09,2026-03-19,8376079911,sanya.kulkarni17@university.edu
+STU1392,Tara Gupta,2,Mathematics,BK-55539,Modern Economics,2026-03-05,2026-03-19,8948779410,tara.gupta68@university.edu
+STU1393,Arjun Verma,3,Mechanical Engineering,BK-98725,Calculus Early Transcendentals,2026-03-14,2026-04-02,7222038693,arjun.verma11@university.edu
+STU1394,Ananya Bose,2,Literature,BK-66828,Brave New World,2026-09-17,2026-09-27,7543612869,ananya.bose38@university.edu
+STU1395,Sneha Iyer,3,Literature,BK-72937,Physics for Scientists,2026-05-22,2026-06-06,8362083415,sneha.iyer49@university.edu
+STU1396,Priya Reddy,1,Literature,BK-44079,Psychology of Money,2026-09-27,2026-10-17,7214765987,priya.reddy63@university.edu
+STU1397,Vikram Sharma,1,Mechanical Engineering,BK-10269,Microbiology Intro,2026-09-01,2026-09-08,7358567629,vikram.sharma99@university.edu
+STU1398,Sanya Sharma,1,Mathematics,BK-66638,Microbiology Intro,2026-03-05,2026-03-18,7141197226,sanya.sharma69@university.edu
+STU1399,Sanya Reddy,2,Computer Science,BK-21911,Digital Logic Design,2026-06-20,2026-06-27,7998385175,sanya.reddy41@university.edu
+STU1400,Zoya Joshi,1,Computer Science,BK-41369,Digital Logic Design,2025-12-24,2026-01-10,7773483126,zoya.joshi81@university.edu
+STU1401,Arjun Nair,1,Civil Engineering,BK-65731,The Great Gatsby,2026-01-10,2026-01-25,8259556344,arjun.nair75@university.edu
+STU1402,Arjun Reddy,4,Physics,BK-66370,Introduction to Algorithms,2026-03-18,2026-04-01,9192804285,arjun.reddy49@university.edu
+STU1403,Sanya Kulkarni,3,Civil Engineering,BK-90021,Introduction to Algorithms,2026-09-05,2026-09-14,9458859213,sanya.kulkarni90@university.edu
+STU1404,Vikram Patel,4,Computer Science,BK-30712,Data Structures 101,2026-06-15,2026-06-25,9057267248,vikram.patel84@university.edu
+STU1405,Manish Singh,3,Electrical Engineering,BK-48973,The Great Gatsby,2026-10-09,2026-10-22,8589025272,manish.singh89@university.edu
+STU1406,Priya Gupta,2,Civil Engineering,BK-40015,Digital Logic Design,2026-08-13,2026-09-02,7354743776,priya.gupta17@university.edu
+STU1407,Amit Iyer,4,Civil Engineering,BK-43042,Psychology of Money,2026-02-11,2026-02-22,8085897514,amit.iyer61@university.edu
+STU1408,Tara Gupta,2,Economics,BK-23318,1984,2026-04-30,2026-05-08,9829521215,tara.gupta46@university.edu
+STU1409,Pooja Kulkarni,4,Economics,BK-21899,The Great Gatsby,2026-11-17,2026-12-01,7245934500,pooja.kulkarni39@university.edu
+STU1410,Kabir Singh,1,Physics,BK-50827,Introduction to Algorithms,2026-05-15,2026-06-02,7273833805,kabir.singh44@university.edu
+STU1411,Sanya Reddy,4,Economics,BK-19525,The Great Gatsby,2026-04-19,2026-05-03,9964646676,sanya.reddy23@university.edu
+STU1412,Rohan Chawla,4,Physics,BK-92199,1984,2026-11-03,2026-11-22,7115954036,rohan.chawla21@university.edu
+STU1413,Amit Das,4,Mechanical Engineering,BK-86700,Data Structures 101,2026-01-19,2026-02-09,7684546818,amit.das80@university.edu
+STU1414,Ananya Patel,3,Computer Science,BK-32420,Digital Logic Design,2026-11-15,2026-12-04,9542259666,ananya.patel19@university.edu
+STU1415,Amit Chawla,4,Economics,BK-87465,The Alchemist,2026-05-07,2026-05-16,9704126696,amit.chawla15@university.edu
+STU1416,Rahul Sharma,4,Electrical Engineering,BK-91771,To Kill a Mockingbird,2026-08-12,2026-08-19,8409286937,rahul.sharma77@university.edu
+STU1417,Ananya Bose,2,Economics,BK-45951,The Great Gatsby,2026-02-18,2026-03-08,8922687735,ananya.bose33@university.edu
+STU1418,Priya Patel,4,Civil Engineering,BK-52169,Clean Code,2026-03-20,2026-04-10,9962273001,priya.patel60@university.edu
+STU1419,Pooja Singh,2,Electrical Engineering,BK-75740,Digital Logic Design,2026-06-21,2026-07-01,8629767234,pooja.singh99@university.edu
+STU1420,Tara Patel,4,Physics,BK-41577,Psychology of Money,2026-07-02,2026-07-15,7065873732,tara.patel94@university.edu
+STU1421,Kabir Singh,4,Literature,BK-91346,The Great Gatsby,2026-01-15,2026-02-04,9286571212,kabir.singh66@university.edu
+STU1422,Kabir Reddy,1,Civil Engineering,BK-40311,1984,2026-05-21,2026-06-11,8017698676,kabir.reddy67@university.edu
+STU1423,Manish Joshi,4,Electrical Engineering,BK-80548,Data Structures 101,2026-01-02,2026-01-22,9334642379,manish.joshi67@university.edu
+STU1424,Ishani Bose,1,Electrical Engineering,BK-88625,Data Structures 101,2026-08-21,2026-09-04,9934998632,ishani.bose80@university.edu
+STU1425,Riya Joshi,2,Physics,BK-98570,Brave New World,2026-07-19,2026-07-27,7485843312,riya.joshi79@university.edu
+STU1426,Vikram Patel,2,Physics,BK-26403,Physics for Scientists,2026-10-30,2026-11-10,8319307246,vikram.patel60@university.edu
+STU1427,Vikram Reddy,3,Mathematics,BK-16284,Psychology of Money,2026-06-20,2026-07-10,8442967285,vikram.reddy68@university.edu
+STU1428,Zoya Kapoor,1,Economics,BK-89121,The Alchemist,2026-09-07,2026-09-14,9153884227,zoya.kapoor56@university.edu
+STU1429,Pooja Iyer,1,Civil Engineering,BK-46026,To Kill a Mockingbird,2026-05-25,2026-06-11,9207278485,pooja.iyer48@university.edu
+STU1430,Riya Singh,1,Economics,BK-24789,Modern Economics,2026-05-22,2026-06-06,7769508456,riya.singh92@university.edu
+STU1431,Zoya Malhotra,3,Computer Science,BK-46232,The Great Gatsby,2026-12-05,2026-12-16,9829222186,zoya.malhotra12@university.edu
+STU1432,Sneha Joshi,2,Physics,BK-17029,Modern Economics,2026-06-02,2026-06-14,9391036417,sneha.joshi36@university.edu
+STU1433,Rahul Sharma,4,Computer Science,BK-13957,The Art of War,2026-12-19,2026-12-31,8034049527,rahul.sharma67@university.edu
+STU1434,Karan Das,3,Electrical Engineering,BK-96719,The Art of War,2026-02-10,2026-02-21,7258478393,karan.das69@university.edu
+STU1435,Arjun Bose,1,Economics,BK-61793,Clean Code,2026-02-03,2026-02-22,9599759021,arjun.bose63@university.edu
+STU1436,Sanya Patel,1,Literature,BK-97135,The Alchemist,2026-12-05,2026-12-14,9805702237,sanya.patel36@university.edu
+STU1437,Zoya Nair,3,Mechanical Engineering,BK-56510,The Great Gatsby,2026-07-05,2026-07-19,9235674919,zoya.nair67@university.edu
+STU1438,Manish Reddy,3,Computer Science,BK-54101,Data Structures 101,2026-07-26,2026-08-08,7111001904,manish.reddy78@university.edu
+STU1439,Tara Bose,4,Computer Science,BK-91501,Modern Economics,2026-11-17,2026-11-27,8219685977,tara.bose59@university.edu
+STU1440,Zoya Joshi,3,Computer Science,BK-26410,To Kill a Mockingbird,2026-12-08,2026-12-22,7374973702,zoya.joshi50@university.edu
+STU1441,Meera Sharma,1,Literature,BK-75068,Introduction to Algorithms,2026-01-16,2026-01-25,9262913483,meera.sharma97@university.edu
+STU1442,Ishani Kapoor,4,Economics,BK-68752,Modern Economics,2026-09-26,2026-10-04,9739901643,ishani.kapoor69@university.edu
+STU1443,Tara Kulkarni,2,Computer Science,BK-50548,1984,2026-10-03,2026-10-19,7995615940,tara.kulkarni72@university.edu
+STU1444,Meera Bose,4,Mechanical Engineering,BK-27417,Digital Logic Design,2026-07-06,2026-07-22,8655265969,meera.bose29@university.edu
+STU1445,Vikram Sharma,1,Economics,BK-85342,Brave New World,2026-03-29,2026-04-09,9449261862,vikram.sharma55@university.edu
+STU1446,Priya Verma,3,Physics,BK-69462,The Great Gatsby,2025-12-30,2026-01-13,7827571492,priya.verma28@university.edu
+STU1447,Sanya Malhotra,1,Physics,BK-43833,The Great Gatsby,2026-11-22,2026-12-11,8158845669,sanya.malhotra10@university.edu
+STU1448,Vikram Kapoor,1,Economics,BK-13161,Microbiology Intro,2026-11-11,2026-11-18,7073992090,vikram.kapoor89@university.edu
+STU1449,Arjun Kulkarni,4,Mechanical Engineering,BK-96052,The Great Gatsby,2026-10-04,2026-10-24,7887846452,arjun.kulkarni60@university.edu
+STU1450,Rahul Joshi,2,Electrical Engineering,BK-82163,Physics for Scientists,2026-05-14,2026-05-24,9662606385,rahul.joshi95@university.edu
+STU1451,Aditya Nair,2,Computer Science,BK-36213,1984,2026-10-14,2026-10-29,8171323359,aditya.nair98@university.edu
+STU1452,Priya Patel,3,Civil Engineering,BK-70006,Microbiology Intro,2026-11-12,2026-11-26,9316739659,priya.patel81@university.edu
+STU1453,Pooja Reddy,4,Physics,BK-68834,Psychology of Money,2026-12-22,2026-12-31,7412257757,pooja.reddy97@university.edu
+STU1454,Ananya Iyer,2,Mathematics,BK-90266,Physics for Scientists,2026-04-04,2026-04-19,9437027130,ananya.iyer50@university.edu
+STU1455,Pooja Malhotra,2,Physics,BK-43364,Clean Code,2026-04-30,2026-05-20,8496602219,pooja.malhotra78@university.edu
+STU1456,Pooja Verma,3,Physics,BK-53823,Brave New World,2026-04-23,2026-05-12,8741939642,pooja.verma32@university.edu
+STU1457,Vijay Das,1,Mathematics,BK-48965,The Alchemist,2026-11-07,2026-11-19,7157696471,vijay.das12@university.edu
+STU1458,Meera Verma,3,Electrical Engineering,BK-55724,The Great Gatsby,2026-10-03,2026-10-16,7927285802,meera.verma74@university.edu
+STU1459,Sneha Verma,1,Mechanical Engineering,BK-50783,Physics for Scientists,2026-03-21,2026-03-30,9311944574,sneha.verma85@university.edu
+STU1460,Arjun Chawla,4,Economics,BK-79041,Clean Code,2026-04-14,2026-05-05,9972733169,arjun.chawla45@university.edu
+STU1461,Vikram Joshi,2,Electrical Engineering,BK-45549,The Great Gatsby,2026-10-19,2026-10-28,7887507731,vikram.joshi45@university.edu
+STU1462,Vijay Gupta,2,Mechanical Engineering,BK-83133,Introduction to Algorithms,2026-06-07,2026-06-15,7025809212,vijay.gupta27@university.edu
+STU1463,Tara Patel,1,Physics,BK-63803,Microbiology Intro,2025-12-23,2026-01-03,7857472565,tara.patel96@university.edu
+STU1464,Karan Kulkarni,2,Electrical Engineering,BK-20850,Calculus Early Transcendentals,2026-07-06,2026-07-23,8021866704,karan.kulkarni55@university.edu
+STU1465,Manish Iyer,3,Electrical Engineering,BK-23934,Modern Economics,2026-01-01,2026-01-08,7442033967,manish.iyer62@university.edu
+STU1466,Ananya Kapoor,3,Mathematics,BK-89473,Data Structures 101,2026-08-22,2026-09-06,8895938778,ananya.kapoor18@university.edu
+STU1467,Meera Kapoor,3,Economics,BK-12369,Calculus Early Transcendentals,2026-07-31,2026-08-12,9409816108,meera.kapoor47@university.edu
+STU1468,Kabir Reddy,3,Electrical Engineering,BK-42322,Digital Logic Design,2026-07-02,2026-07-15,7656913290,kabir.reddy71@university.edu
+STU1469,Sanya Bose,1,Mathematics,BK-56705,Brave New World,2025-12-27,2026-01-15,7508223763,sanya.bose49@university.edu
+STU1470,Tara Nair,4,Literature,BK-90703,Brave New World,2026-11-11,2026-11-27,9016767516,tara.nair28@university.edu
+STU1471,Ishani Patel,4,Electrical Engineering,BK-63017,Data Structures 101,2026-08-02,2026-08-13,7912478061,ishani.patel34@university.edu
+STU1472,Aditya Kapoor,2,Economics,BK-65348,Brave New World,2026-05-02,2026-05-11,8144486130,aditya.kapoor33@university.edu
+STU1473,Tara Verma,1,Electrical Engineering,BK-70039,Introduction to Algorithms,2026-01-24,2026-02-05,8402932646,tara.verma65@university.edu
+STU1474,Meera Chawla,3,Mechanical Engineering,BK-19976,Calculus Early Transcendentals,2026-03-02,2026-03-21,7711012825,meera.chawla42@university.edu
+STU1475,Vikram Reddy,1,Physics,BK-31529,Psychology of Money,2026-12-13,2026-12-22,9236821300,vikram.reddy72@university.edu
+STU1476,Ananya Kapoor,2,Physics,BK-18952,To Kill a Mockingbird,2026-08-01,2026-08-12,7942455324,ananya.kapoor51@university.edu
+STU1477,Vijay Das,4,Economics,BK-25099,Digital Logic Design,2026-01-16,2026-01-26,8298627269,vijay.das22@university.edu
+STU1478,Sanya Malhotra,1,Literature,BK-40195,Modern Economics,2026-05-24,2026-05-31,9599922624,sanya.malhotra88@university.edu
+STU1479,Rohan Iyer,3,Computer Science,BK-85427,Microbiology Intro,2026-05-24,2026-06-05,7131917865,rohan.iyer12@university.edu
+STU1480,Rahul Patel,3,Mathematics,BK-22980,Brave New World,2026-12-18,2026-12-25,7155349429,rahul.patel80@university.edu
+STU1481,Rahul Patel,3,Literature,BK-70402,To Kill a Mockingbird,2026-09-20,2026-10-05,7319049760,rahul.patel73@university.edu
+STU1482,Ishani Reddy,1,Mathematics,BK-80625,Brave New World,2026-05-17,2026-06-01,8826705532,ishani.reddy53@university.edu
+STU1483,Sanya Sharma,2,Economics,BK-50576,Clean Code,2026-05-01,2026-05-12,9876207190,sanya.sharma52@university.edu
+STU1484,Sneha Gupta,2,Computer Science,BK-28024,1984,2026-05-24,2026-06-12,8936128194,sneha.gupta59@university.edu
+STU1485,Sneha Malhotra,2,Economics,BK-88807,The Great Gatsby,2026-09-28,2026-10-13,7009704162,sneha.malhotra22@university.edu
+STU1486,Meera Nair,2,Mathematics,BK-21785,Introduction to Algorithms,2026-02-17,2026-03-02,9195019648,meera.nair51@university.edu
+STU1487,Vijay Malhotra,2,Mathematics,BK-39915,Physics for Scientists,2026-12-12,2026-12-26,7209569231,vijay.malhotra36@university.edu
+STU1488,Ishani Iyer,1,Electrical Engineering,BK-67786,Brave New World,2026-10-11,2026-11-01,7436526496,ishani.iyer73@university.edu
+STU1489,Sneha Joshi,3,Economics,BK-57334,Clean Code,2026-03-28,2026-04-15,8466165917,sneha.joshi48@university.edu
+STU1490,Ishani Kulkarni,2,Physics,BK-69039,The Great Gatsby,2026-08-22,2026-09-07,7328228175,ishani.kulkarni24@university.edu
+STU1491,Meera Malhotra,1,Economics,BK-40680,Brave New World,2026-07-05,2026-07-22,7365076431,meera.malhotra99@university.edu
+STU1492,Kabir Chawla,2,Economics,BK-90813,The Art of War,2026-11-24,2026-12-05,7688847486,kabir.chawla97@university.edu
+STU1493,Ananya Verma,1,Mathematics,BK-10199,Physics for Scientists,2026-05-04,2026-05-17,7595727339,ananya.verma38@university.edu
+STU1494,Vijay Kapoor,3,Economics,BK-98874,1984,2026-04-21,2026-04-29,9682019993,vijay.kapoor12@university.edu
+STU1495,Ishani Patel,2,Electrical Engineering,BK-16767,Brave New World,2026-05-21,2026-05-31,8848721700,ishani.patel79@university.edu
+STU1496,Amit Nair,2,Computer Science,BK-11394,The Art of War,2026-03-06,2026-03-24,7807886312,amit.nair53@university.edu
+STU1497,Pooja Iyer,1,Mathematics,BK-63968,1984,2026-07-06,2026-07-19,9087958624,pooja.iyer86@university.edu
+STU1498,Meera Nair,3,Electrical Engineering,BK-37853,Physics for Scientists,2026-08-01,2026-08-22,7025387114,meera.nair51@university.edu
+STU1499,Kabir Verma,3,Electrical Engineering,BK-60045,The Alchemist,2026-07-30,2026-08-13,9439015003,kabir.verma60@university.edu
+STU1500,Pooja Verma,1,Electrical Engineering,BK-74167,Microbiology Intro,2026-08-31,2026-09-11,8967154391,pooja.verma51@university.edu
